@@ -1,0 +1,17 @@
+{
+  "name": "alice",
+  "version": "1.0.0",
+  "description": "Testing Slack Bot development",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js",
+    "start": "nodemon index.js"
+  },
+  "author": "Fowley",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "slackbots": "^1.2.0"
+  }
+}
